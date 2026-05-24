@@ -17,3 +17,6 @@ A small frontend project that changes the page background color when the user cl
 
 - The project uses a fixed array of colors defined in `app.js`.
 - This is a simple demo suitable for learning basic DOM manipulation and event handling.
+
+## Deploy
+https://background-flipper-240526.netlify.app/
